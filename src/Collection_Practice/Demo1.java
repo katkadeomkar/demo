@@ -31,11 +31,11 @@ public class Demo1 {
 		System.out.println(x);
 		System.out.println(y);
 		
-		System.out.println("X Hi frist update1");
-		System.out.println("X Hi frist update2");
-		System.out.println("X Hi frist update3");
-		System.out.println("X Hi frist update4");
-		System.out.println("X Hi frist update5");
+		System.out.println("Xdemo Hi frist update1");
+		System.out.println("Xdemo Hi frist update2");
+		System.out.println("Xdemo Hi frist update3");
+		System.out.println("Xdemo Hi frist update4");
+		System.out.println("Xdemo Hi frist update5");
 		
 	}
 
