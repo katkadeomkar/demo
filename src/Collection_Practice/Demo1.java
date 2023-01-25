@@ -18,6 +18,8 @@ public class Demo1 {
 		System.out.println("Hi frist update3");
 		System.out.println("Hi frist update4");
 		System.out.println("Hi frist update5");
+		
+		
 
 		ArrayList y = new ArrayList();
 		y.add("aaa");
@@ -28,6 +30,13 @@ public class Demo1 {
 		x.addAll(y);
 		System.out.println(x);
 		System.out.println(y);
+		
+		System.out.println("X Hi frist update1");
+		System.out.println("X Hi frist update2");
+		System.out.println("X Hi frist update3");
+		System.out.println("X Hi frist update4");
+		System.out.println("X Hi frist update5");
+		
 	}
 
 }
